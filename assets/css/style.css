@@ -6,7 +6,7 @@
     border: none;
 }
 
-/* Headings & Logo */
+/* Heading */
 
 body {
     font-family: Nunito, sans-serif;
@@ -18,17 +18,18 @@ h1, h2 {
     letter-spacing: 1px;
 }
 
-.container {
- display: flex;
- width: 100%;  
-}
+/* Flex box grid style */
 
+.container {
+    display: block;
+    width: 100%;
+}
+  
 .row {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
 }
+  
 
 .col1 {
     order: 1;
@@ -44,7 +45,7 @@ h1, h2 {
     width: 33%;
 }
 
-.col2 {
+.col3 {
     order: 3;
     display: flex;
     justify-content: space-evenly;
