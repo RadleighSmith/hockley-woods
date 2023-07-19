@@ -18,6 +18,13 @@ h1, h2 {
     letter-spacing: 1px;
 }
 
+.nav-bar {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-left: 0;
+}
+
 /* Flex box grid style */
 
 .container {
@@ -35,19 +42,19 @@ h1, h2 {
     order: 1;
     display: flex;
     justify-content: space-evenly;
-    width: 33%;
+    width: 40%;
 }
 
 .col2 {
     order: 2;
     display: flex;
     justify-content: space-evenly;
-    width: 33%;
+    width: 20%;
 }
 
 .col3 {
     order: 3;
     display: flex;
     justify-content: space-evenly;
-    width: 33%;
+    width: 40%;
 }
