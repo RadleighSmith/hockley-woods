@@ -1,15 +1,52 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Rubik:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600&family=Nunito&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
+
+/* Headings & Logo */
+
 body {
-    font-family: nunito, sans-serif;
+    font-family: Nunito, sans-serif;
     font-weight: 300;
 }
 
 h1, h2 {
-    font-family: rubkik, sans-serif;
+    font-family: Barlow Semi Condensed, sans-serif;
+    letter-spacing: 1px;
+}
+
+.container {
+ display: flex;
+ width: 100%;  
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.col1 {
+    order: 1;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.col2 {
+    order: 2;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
+}
+
+.col2 {
+    order: 3;
+    display: flex;
+    justify-content: space-evenly;
+    width: 33%;
 }
