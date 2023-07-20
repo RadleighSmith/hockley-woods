@@ -21,7 +21,8 @@ h1, h2 {
 
 .nav-bar {
     background-color: #4C645C;
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .nav-links {
