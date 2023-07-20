@@ -30,11 +30,19 @@ h1, h2 {
     letter-spacing: 2px;
 }
 
+.nav-bar a:hover {
+    text-decoration: underline;
+}
+
 .active {
     text-decoration: underline;
 }
 
-
+#support-us {
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: #ECBA0E;
+}
 /* Flex box grid style */
 
 .container {
@@ -44,7 +52,7 @@ h1, h2 {
   
 .row {
     display: flex;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
 }
   
 
