@@ -16,7 +16,7 @@ body {
 
 h1, h2 {
     font-family: Barlow Semi Condensed, sans-serif;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 }
 
 .nav-bar {
@@ -27,6 +27,7 @@ h1, h2 {
 .nav-links {
     text-decoration: none;
     color: white;
+    letter-spacing: 2px;
 }
 
 .active {
