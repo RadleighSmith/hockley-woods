@@ -134,3 +134,28 @@ h2 {
     letter-spacing: 1px;
     font-size: 26px;
 }
+
+/* Welcome Paragraph extended */
+
+.welcome-extended-container {
+    display: flex;
+}
+
+.welcome-extended-left {
+    flex: 45%;
+    padding: 10px 30px 30px 30px;
+}
+
+.welcome-extended-right {
+    flex: 55%;
+    padding: 10px 30px 30px 10px;
+}
+
+#dirt-path {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.extended-text {
+    text-align: center;
+}
