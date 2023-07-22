@@ -129,7 +129,7 @@ h2 {
     text-align: center;
 }
 
-#welcome-paragraph>h3 {
+#welcome-paragraph h3 {
     font-family: Barlow Semi Condensed, sans-serif;
     letter-spacing: 1px;
     font-size: 26px;
@@ -203,6 +203,35 @@ h2 {
     border-radius: 50%;
 }
 
-#find-us-link>h3 {
+#find-us-link h3 {
     border-bottom: black solid 1px;
+}
+
+/* Footer */
+
+footer {
+    height: 100px;
+    background-color: #4C645C;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media>li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 5px;
+    color: white;
+}
+
+#education-declaration {
+    text-align: center;
+    padding-bottom: 10px;
+    font-style: italic;
+    font-size: 12px;
 }
