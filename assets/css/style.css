@@ -11,10 +11,11 @@
 body {
     font-family: Nunito, sans-serif;
     font-weight: 300;
-    
+
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: Barlow Semi Condensed, sans-serif;
     letter-spacing: 2px;
 }
@@ -44,18 +45,19 @@ h1, h2 {
     box-sizing: border-box;
     background-color: #ECBA0E;
 }
-/* Flex box grid style */
+
+/* Flex box grid style for header */
 
 .container {
     display: block;
     width: 100%;
 }
-  
+
 .row {
     display: flex;
     flex-wrap: wrap;
 }
-  
+
 
 .col1 {
     order: 1;
@@ -76,4 +78,14 @@ h1, h2 {
     display: flex;
     justify-content: space-evenly;
     width: 40%;
+}
+
+/* Hero Image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
