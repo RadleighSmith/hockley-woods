@@ -116,10 +116,16 @@ h2 {
     transform: translate(-50%, -50%);
 }
 
+/* Page style */
+.page-style {
+    margin: 40px 60px;
+    background-color: white;
+}
+
 /* Welcome Paragraph */
 
 #welcome-paragraph {
-    margin: 50px 120px;
+    padding: 30px;
     text-align: center;
 }
 
