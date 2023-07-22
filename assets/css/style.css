@@ -159,3 +159,50 @@ h2 {
 .extended-text {
     text-align: center;
 }
+
+/* Links to Wildlife, Sports and Recreation, How to find us  */
+
+.links-container {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.links-column {
+    flex: 33%;
+    margin: 30px;
+}
+
+/* Wildlife Link */
+
+#wildlife-image {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#wildlife-link>h3 {
+    border-bottom: black solid 1px;
+}
+
+/* Sports & Recreaton Link */
+
+#sports-recreation-image {
+    width: 100%;
+    border-radius: 50%;
+
+}
+
+#sports-recreation-link>h3 {
+    border-bottom: black solid 1px;
+}
+
+/* How to find us link */
+
+#find-us-image {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#find-us-link>h3 {
+    border-bottom: black solid 1px;
+}
