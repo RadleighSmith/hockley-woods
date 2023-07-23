@@ -237,41 +237,26 @@ h2 {
     padding: 0px 30px 0px 30px;
 }
 
+/* Wildlife images */
+
+.wildlife-image {
+    width: 33%;
+    border-radius: 50%;
+}
+
 /* flexbox grid for wildlife page */
 
 .wildlife-container {
     display: flex;
-    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
-.birds-row {
-    width: 100%;
-    background-color: aquamarine;
-}
-
-.squirrels-row {
-    width: 100%;
-    background-color: yellow;
-}
-
-.deers-row {
-    width: 100%;
-    background-color: aquamarine;
-}
-
-.foxes-row {
-    width: 100%;
-    background-color: yellow;
-}
-
-.critters-row {
-    width: 100%;
-    background-color: aquamarine;
-}
-
-.insects-row {
-    width: 100%;
-    background-color: yellow;
+.wildlife-grid {
+    flex-basis: 33%;
+    height: 400px;
+    box-sizing: border-box;
+    border: 1px solid black;
 }
 
 /* Footer */
