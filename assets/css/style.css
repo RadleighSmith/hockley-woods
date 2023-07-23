@@ -25,12 +25,15 @@ h2 {
     background-color: #4C645C;
     padding-top: 30px;
     padding-bottom: 30px;
+    align-items: baseline;
 }
 
 .nav-links {
     text-decoration: none;
+    padding: 10px;
     color: white;
     letter-spacing: 2px;
+    align-self: baseline;
 }
 
 .nav-bar a:hover {
@@ -45,6 +48,7 @@ h2 {
     border: 1px solid black;
     background-color: #ECBA0E;
     padding: 10px;
+    align-self: baseline;
 }
 
 /* Flex box grid style for header */
