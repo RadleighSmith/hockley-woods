@@ -210,6 +210,21 @@ h2 {
     border-bottom: black solid 1px;
 }
 
+/* How to find us */
+
+#find-us {
+    padding: 30px;
+}
+
+#find-us-heading {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 26px;
+    padding: 30px;
+
+}
+
+
 /* WILDLIFE PAGE */
 
 /* Wildlife page heading */
