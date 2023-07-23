@@ -25,6 +25,7 @@ h2 {
     background-color: #4C645C;
     padding-top: 30px;
     padding-bottom: 30px;
+    position: absolute;
 }
 
 .nav-links {
@@ -43,8 +44,9 @@ h2 {
 
 #support-us {
     border: 1px solid black;
-    box-sizing: border-box;
+    position: relative;
     background-color: #ECBA0E;
+    padding: 10px;
 }
 
 /* Flex box grid style for header */
