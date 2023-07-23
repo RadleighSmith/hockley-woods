@@ -304,6 +304,13 @@ h2 {
     text-align: center;
 }
 
+/* Sports page content */
+
+.sports-image {
+    width: 90%;
+    border-radius: 50%;
+}
+
 /* Flexbox grid for sports page */
 
 .sports-container {
@@ -318,8 +325,6 @@ h2 {
 .sports-grid {
     flex-basis: calc(33.33% - 20px);
     height: 300px;
-    box-sizing: border-box;
-    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
