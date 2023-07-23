@@ -304,6 +304,27 @@ h2 {
     text-align: center;
 }
 
+/* Flexbox grid for sports page */
+
+.sports-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 30px;
+    width: calc(100% - 60px);
+}
+
+.sports-grid {
+    flex-basis: calc(33.33% - 20px);
+    height: 300px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Footer */
 
 footer {
