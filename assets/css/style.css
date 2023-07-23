@@ -122,7 +122,7 @@ h2 {
 
 /* Page style */
 .page-style {
-    margin: 40px 60px;
+    margin: 40px 180px;
     background-color: white;
 }
 
@@ -219,6 +219,47 @@ h2 {
 
 #find-us-link h3 {
     border-bottom: black solid 1px;
+}
+
+/* WILDLIFE PAGE */
+
+
+
+/* flexbox grid for wildlife page */
+
+.wildlife-container {
+    display: flex;
+    width: 100%;
+}
+
+.birds-row {
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.squirrels-row {
+    width: 100%;
+    background-color: yellow;
+}
+
+.deers-row {
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.foxes-row {
+    width: 100%;
+    background-color: yellow;
+}
+
+.critters-row {
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.insects-row {
+    width: 100%;
+    background-color: yellow;
 }
 
 /* Footer */
