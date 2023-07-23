@@ -174,7 +174,7 @@ h2 {
     padding: 30px;
 }
 
-/* Links to Wildlife, Sports and Recreation, How to find us  */
+/* Links to Wildlife, Sports and Recreation,*/
 
 .links-container {
     display: flex;
@@ -207,17 +207,6 @@ h2 {
 }
 
 #sports-recreation-link>h3 {
-    border-bottom: black solid 1px;
-}
-
-/* How to find us link */
-
-#find-us-image {
-    width: 100%;
-    border-radius: 50%;
-}
-
-#find-us-link h3 {
     border-bottom: black solid 1px;
 }
 
