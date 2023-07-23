@@ -254,15 +254,15 @@ h2 {
 }
 
 .wildlife-grid {
-
     flex-basis: 25%;
     height: calc(100% / 7);
-    box-sizing: border-box;
-    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.grid-item:nth-child(2n) {
-    flex-basis: 50%;
+.wildlife-grid:nth-child(3n+2) {
+    flex: 0 0 50%
 }
 
 
