@@ -295,6 +295,15 @@ h2 {
     padding: 30px;
 }
 
+/* SPORTS PAGE */
+
+/* Sports intro */
+
+#sports-intro {
+    padding: 30px;
+    text-align: center;
+}
+
 /* Footer */
 
 footer {
