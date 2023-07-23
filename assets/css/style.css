@@ -160,6 +160,16 @@ h2 {
     text-align: center;
 }
 
+/* Quote */
+
+#quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+
+    padding: 30px;
+}
+
 /* Links to Wildlife, Sports and Recreation, How to find us  */
 
 .links-container {
