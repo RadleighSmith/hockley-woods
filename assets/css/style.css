@@ -133,7 +133,7 @@ h2 {
     text-align: center;
 }
 
-#welcome-paragraph h3 {
+#welcome-paragraph>h3 {
     font-family: Barlow Semi Condensed, sans-serif;
     letter-spacing: 1px;
     font-size: 26px;
@@ -223,7 +223,19 @@ h2 {
 
 /* WILDLIFE PAGE */
 
+/* Wildlife page heading */
 
+#wildlife-heading>h2 {
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 26px;
+    padding: 30px;
+}
+
+#wildlife-heading>p {
+    text-align: center;
+    padding: 0px 30px 0px 30px;
+}
 
 /* flexbox grid for wildlife page */
 
