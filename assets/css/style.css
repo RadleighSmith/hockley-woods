@@ -244,6 +244,16 @@ h2 {
     border-radius: 50%;
 }
 
+/* Wildlife page infomation */
+
+.wildlife-center-left>p {
+    border-top: 1px solid black;
+}
+
+.wildlife-center-right>p {
+    border-top: 1px solid black;
+}
+
 /* flexbox grid for wildlife page */
 
 .wildlife-container {
@@ -262,9 +272,24 @@ h2 {
 }
 
 .wildlife-grid:nth-child(3n+2) {
-    flex: 0 0 50%
+    flex: 0 0 50%;
 }
 
+.wildlife-center-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 30px;
+}
+
+.wildlife-center-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+    padding: 30px;
+}
 
 /* Footer */
 
