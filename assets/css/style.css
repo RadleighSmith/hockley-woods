@@ -6,6 +6,19 @@
     border: none;
 }
 
+/* General Rules */
+
+h1,
+h2 {
+    font-family: Barlow Semi Condensed, sans-serif;
+    letter-spacing: 2px;
+}
+
+.text-center {
+    text-align: center;
+    padding: 30px;
+}
+
 /* Heading */
 
 body {
@@ -15,11 +28,6 @@ body {
 
 }
 
-h1,
-h2 {
-    font-family: Barlow Semi Condensed, sans-serif;
-    letter-spacing: 2px;
-}
 
 .nav-bar {
     background-color: #4C645C;
