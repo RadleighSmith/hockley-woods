@@ -324,10 +324,15 @@ h2 {
 
 .sports-grid {
     flex-basis: calc(33.33% - 20px);
-    height: 300px;
     display: flex;
+    text-align: center;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+}
+
+.sports-grid p {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 /* Footer */
