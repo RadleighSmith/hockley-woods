@@ -12,10 +12,14 @@ h1,
 h2 {
     font-family: Barlow Semi Condensed, sans-serif;
     letter-spacing: 2px;
+    padding-top: 30px;
 }
 
 .text-center {
     text-align: center;
+}
+
+.spacing {
     padding: 30px;
 }
 
