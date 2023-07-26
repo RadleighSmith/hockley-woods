@@ -18,6 +18,10 @@ h2 {
     text-align: center;
 }
 
+.text-right {
+    text-align: right;
+}
+
 .text-spacing {
     padding: 30px 30px 0 30px;
 }
@@ -25,6 +29,7 @@ h2 {
 .spacing {
     padding: 30px 30px 30px 30px;
 }
+
 
 /* Heading */
 
@@ -257,51 +262,30 @@ body {
     border-radius: 50%;
 }
 
+
 /* Wildlife page infomation */
 
-.wildlife-center-left>p {
-    border-top: 1px solid black;
-}
-
-.wildlife-center-right>p {
-    border-top: 1px solid black;
+.wildlife-col-large>p {
+    border-top: 1px solid #000000;
 }
 
 /* flexbox grid for wildlife page */
 
 .wildlife-container {
+    display: block;
+}
+
+.wildlife-row {
     display: flex;
     flex-wrap: wrap;
-    width: calc(100% - 60px);
-    margin: 30px;
 }
 
-.wildlife-grid {
-    flex-basis: 25%;
-    height: calc(100% / 7);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.wildlife-col-small {
+    width: 25%;
 }
 
-.wildlife-grid:nth-child(3n+2) {
-    flex: 0 0 50%;
-}
-
-.wildlife-center-left {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    text-align: left;
-    padding: 30px;
-}
-
-.wildlife-center-right {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-    text-align: right;
-    padding: 30px;
+.wildlife-col-large {
+    width: 75%;
 }
 
 /* SPORTS PAGE */
