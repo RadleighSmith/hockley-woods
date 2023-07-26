@@ -18,8 +18,12 @@ h2 {
     text-align: center;
 }
 
-.spacing {
+.text-spacing {
     padding: 30px 30px 0 30px;
+}
+
+.spacing {
+    padding: 30px 30px 30px 30px;
 }
 
 /* Heading */
@@ -370,11 +374,13 @@ form input {
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    box-sizing: border-box;
 }
 
 form input[type=submit] {
     display: block;
     margin: 0 auto;
+    background-color: #ECBA0E;
 }
 
 
