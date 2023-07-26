@@ -121,18 +121,12 @@ body {
 
 #hero-image-text {
     font-family: Nunito, sans-serif;
-    text-transform: capitalize;
-    letter-spacing: 2px;
-    color: white;
-
+    color: #ffffff;
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     padding: 10px;
-
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    position: relative;
+    bottom: 50%;
 }
 
 /* Page style */
