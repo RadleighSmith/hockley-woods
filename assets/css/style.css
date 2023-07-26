@@ -188,12 +188,11 @@ body {
     padding: 30px;
 }
 
-/* Links to Wildlife, Sports and Recreation,*/
+/* Additional Links to Wildlife, Sports and Recreation,*/
 
 .links-container {
     display: flex;
     position: relative;
-    justify-content: center;
 }
 
 .links-column {
@@ -201,30 +200,18 @@ body {
     margin: 30px;
 }
 
-/* Wildlife Link */
+/* Additional Links */
 
-#wildlife-image {
-    width: 100%;
-    border-radius: 50%;
-}
-
-#wildlife-link>h3 {
+.links>h3 {
     border-bottom: black solid 1px;
 }
 
-/* Sports & Recreaton Link */
-
-#sports-recreation-image {
-    width: 100%;
-    border-radius: 50%;
-
+.links-image {
+    width: 75%;
+    border-radius: 50%
 }
 
-#sports-recreation-link>h3 {
-    border-bottom: black solid 1px;
-}
-
-/* How to find us */
+/* How to find us section*/
 
 #find-us {
     padding: 30px;
