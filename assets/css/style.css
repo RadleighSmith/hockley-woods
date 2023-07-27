@@ -23,6 +23,11 @@ h2 {
     letter-spacing: 2px;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .text-center {
     text-align: center;
 }
@@ -204,6 +209,10 @@ h2 {
 }
 
 /* Additional Links */
+
+.links-column a:hover {
+    text-decoration: underline;
+}
 
 .links>h3 {
     border-bottom: #000000 solid 1px;
