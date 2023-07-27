@@ -6,6 +6,15 @@
     border: none;
 }
 
+/* Body */
+
+body {
+    font-family: Nunito, sans-serif;
+    font-weight: 300;
+    background-color: #F3EADA;
+
+}
+
 /* General Rules */
 
 h1,
@@ -30,16 +39,7 @@ h2 {
     padding: 30px 30px 30px 30px;
 }
 
-
 /* Heading */
-
-body {
-    font-family: Nunito, sans-serif;
-    font-weight: 300;
-    background-color: #F3EADA;
-
-}
-
 
 .nav-bar {
     background-color: #4C645C;
@@ -51,7 +51,7 @@ body {
 .nav-links {
     text-decoration: none;
     padding: 10px;
-    color: white;
+    color: #ffffff;
     letter-spacing: 2px;
     align-self: baseline;
 }
@@ -65,10 +65,14 @@ body {
 }
 
 #support-us {
-    border: 1px solid black;
+    border: 1px solid #000000;
     background-color: #ECBA0E;
     padding: 10px;
     align-self: baseline;
+}
+
+#support-us>.nav-links {
+    color: #000000;
 }
 
 /* Flex box grid style for header */
@@ -202,7 +206,7 @@ body {
 /* Additional Links */
 
 .links>h3 {
-    border-bottom: black solid 1px;
+    border-bottom: #000000 solid 1px;
 }
 
 .links-image {
@@ -372,7 +376,7 @@ footer {
     font-size: 200%;
     margin: 1%;
     padding: 5px;
-    color: white;
+    color: #ffffff;
 }
 
 #education-declaration {
@@ -380,4 +384,5 @@ footer {
     padding-bottom: 10px;
     font-style: italic;
     font-size: 12px;
+    color: #ffffff;
 }
