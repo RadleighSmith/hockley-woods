@@ -192,11 +192,10 @@ body {
 
 .links-container {
     display: flex;
-    position: relative;
 }
 
 .links-column {
-    flex: 33%;
+    flex: 50%;
     margin: 30px;
 }
 
@@ -208,7 +207,7 @@ body {
 
 .links-image {
     width: 75%;
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 /* How to find us section*/
