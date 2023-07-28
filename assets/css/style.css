@@ -391,3 +391,13 @@ footer {
     font-size: 12px;
     color: #ffffff;
 }
+
+/* Media Queries */
+
+/* For large screen sizes 1200px wide and down*/
+
+@media screen and (max-width:1200px) {
+    .page-style {
+        margin: 20px;
+    }
+}
