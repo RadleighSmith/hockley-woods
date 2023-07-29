@@ -73,7 +73,6 @@ a {
     border: 1px solid #000000;
     background-color: #ECBA0E;
     padding: 10px;
-    align-self: baseline;
 }
 
 #support-us>.nav-links {
@@ -90,6 +89,8 @@ a {
 .row {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -394,7 +395,7 @@ footer {
 
 /* Media Queries */
 
-/* For large screen sizes 1200px wide and down*/
+/* For large screen sizes 1200px wide and below */
 
 @media screen and (max-width:1200px) {
     .page-style {
