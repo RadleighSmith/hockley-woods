@@ -321,6 +321,12 @@ a {
     border-radius: 50%;
 }
 
+.sports-grid-heading {
+    padding-top: 10px;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+}
+
 /* Flexbox grid for sports page */
 
 .sports-container {
