@@ -73,6 +73,7 @@ a {
     border: 1px solid #000000;
     background-color: #ECBA0E;
     padding: 10px;
+    margin-right: 10px;
 }
 
 #support-us>.nav-links {
@@ -140,8 +141,8 @@ a {
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     padding: 10px;
-    position: relative;
-    bottom: 50%;
+    position: absolute;
+    text-align: center;
 }
 
 /* Page style */
@@ -170,13 +171,13 @@ a {
 }
 
 .welcome-extended-left {
-    flex: 45%;
-    padding: 10px 30px 30px 30px;
+    flex: 55%;
+    padding: 10px 30px 10px 30px;
 }
 
 .welcome-extended-right {
-    flex: 55%;
-    padding: 10px 30px 30px 10px;
+    flex: 45%;
+    padding: 10px 30px 10px 30px;
 }
 
 #dirt-path {
@@ -203,6 +204,9 @@ a {
 .links-column {
     flex: 50%;
     margin: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* Additional Links */
@@ -211,13 +215,20 @@ a {
     text-decoration: underline;
 }
 
+.links {
+    max-width: 400px;
+}
+
 .links>h3 {
     border-bottom: #000000 solid 1px;
 }
 
 .links-image {
     width: 75%;
+    max-width: 350px;
     border-radius: 50%;
+    display: block;
+    margin: 0 auto;
 }
 
 /* How to find us section*/
@@ -403,6 +414,16 @@ footer {
     }
 }
 
+/* For screen sizes 1000px wide and below */
+
+@media screen and (max-width:1000px) {
+
+    .welcome-extended-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 /* For screen sizes 750px wide and below */
 
 @media screen and (max-width:750px) {
@@ -422,6 +443,10 @@ footer {
 /* For screen sizes 450px wide and below */
 
 @media screen and (max-width: 450px) {
+
+    .page-style {
+        margin: 0;
+    }
 
     .col1 {
         order: 2;
