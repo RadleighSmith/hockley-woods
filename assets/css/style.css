@@ -443,6 +443,23 @@ footer {
         order: 2;
         width: 50%;
     }
+
+    .wildlife-row {
+        flex-direction: column;
+    }
+
+    .wildlife-col-small,
+    .wildlife-col-large {
+        width: 100%;
+    }
+
+    .wildlife-col-small {
+        order: 1;
+    }
+
+    .wildlife-col-large {
+        order: 2;
+    }
 }
 
 /* For screen sizes 450px wide and below */
