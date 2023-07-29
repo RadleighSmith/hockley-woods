@@ -462,6 +462,15 @@ footer {
     }
 }
 
+/* For screen sizes 630px wide and below */
+
+@media screen and (max-width: 630px) {
+
+    .sports-container {
+        flex-direction: column;
+    }
+}
+
 /* For screen sizes 450px wide and below */
 
 @media screen and (max-width: 450px) {
