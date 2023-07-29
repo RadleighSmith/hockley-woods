@@ -277,11 +277,16 @@ a {
 
 /* Wildlife page infomation */
 
-.wildlife-col-large>p {
-    border-top: 1px solid #000000;
+.wildlife-col-large>h3 {
+    border-bottom: 1px solid #000000;
 }
 
-/* flexbox grid for wildlife page */
+.wildlife-col-large>p {
+    margin-top: 15px;
+    padding: 5px;
+}
+
+/* flexbox grid and  for wildlife page */
 
 .wildlife-container {
     display: block;
