@@ -454,11 +454,11 @@ footer {
     }
 
     .wildlife-col-small {
-        order: 1;
+        order: 2;
     }
 
     .wildlife-col-large {
-        order: 2;
+        order: 1;
     }
 }
 
