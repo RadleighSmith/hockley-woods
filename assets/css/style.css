@@ -491,6 +491,7 @@ footer {
     .col1 {
         order: 2;
         width: 100%;
+        padding: 10px;
     }
 
     .col3 {
