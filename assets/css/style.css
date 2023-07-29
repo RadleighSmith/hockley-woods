@@ -402,3 +402,34 @@ footer {
         margin: 20px;
     }
 }
+
+/* For screen sizes 750px wide and below */
+
+@media screen and (max-width:750px) {
+
+    .col2 {
+        order: 1;
+        width: 100%;
+    }
+
+    .col1,
+    .col3 {
+        order: 2;
+        width: 50%;
+    }
+}
+
+/* For screen sizes 450px wide and below */
+
+@media screen and (max-width: 450px) {
+
+    .col1 {
+        order: 2;
+        width: 100%;
+    }
+
+    .col3 {
+        order: 3;
+        width: 100%;
+    }
+}
