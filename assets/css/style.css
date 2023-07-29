@@ -282,7 +282,7 @@ a {
 }
 
 .wildlife-col-large>p {
-    margin-top: 0.94 em;
+    margin-top: 0.94em;
     padding: 5px;
 }
 
@@ -339,7 +339,7 @@ a {
 }
 
 .sports-grid {
-    flex-basis: calc(33.33% - 1.25);
+    flex-basis: calc(33.33% - 1.25em);
     display: flex;
     text-align: center;
     flex-direction: column;
