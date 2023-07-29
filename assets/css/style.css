@@ -460,6 +460,8 @@ footer {
     .wildlife-col-large {
         order: 2;
         text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 }
 
