@@ -72,11 +72,51 @@ I also used hero text to spark curiosity with users to want to dive deeper into 
 
 #### Home page content
 
+The home page excluding the hero image and text is split into 4 sections. Starting with the welcome paragraph and image, this section is focused on inviting the visitor into the website giving a basic overview of Hockley Woods. In this I have include a picture of a woodland during a sunrise, and some basic facts about the woods. I have used information from the local council here and they are credited below. 
+
+<img src="assets/readme-images/welcome-text-screenshot.png">
+
+The next section is a quote, I have used this to space the page out so the user isnt overwhelmed with information. 
+
+<img src="assets/readme-images/quote-screenshot.png">
+
+The next section is some aditional links, the reason I have added these is because the user is now at as stage of wanting the find out more information, and insead of scrolling to the top I have directed them after they already now know a little information about the woods from the content above.
+
+<img src= "assets/readme-images/additional-links-screenshot.png">
+
+The last section of the home page before the footer is the 'How to find us' section this include an interactive google maps, Address, and basic directions from main roads and public transport.
+
+<img src="assets/readme-images/find-us-screenshot.png">
+
 ### Wildlife Page
+
+The wildlife page is has been designed for visitors who are intrested on what they may find whilst visiting the woods. It include a opening paragraph and a sentence on keeping respectful to the wildlife, I originally planned for the sentence to be place at the bottom of the page after visitors had read all the content. However, I decided that I wanted to this to be above so it cannot be missed as this is one of my aims for the site.
+
+The page has been designed with a flexbox grid with images placed in the small columns and the text in the large columns, using this design made it very easy to add media queries in to scale the content for smaller screens. Screens that are 750px wide or less the content will be aligned to the middle with the pictures located above the text.
+
+<img src="assets/readme-images/wildlife-page-screenshot.png">
+
+<img src="assets/readme-images/mobile-wildlife-screenshot.png">
 
 ### Sports and Recreation Page
 
+The Sports & Recreation page has been designed for visitors who may be intrested in different activites around the woods, it opens with a opening paragraph which is a basic summary of some of the activties. The second part of the page was designed with a flexbox grid which goes into more detail about each of the activities on offer. This page scales very simmilarly to the wildlife page with screens 630px or smaller.
+
+<img src="assets/readme-images/sports-page-screenshot.png">
+
+<img src="assets/readme-images/mobile-sports-screenshot.png">
+
 ### Support us! Page
+
+The support us page informs visitors in way they could support us, it also include a form in which users will leave their first and last name along with an email, where we can get in touch personally with them in way they can support the woods at this time.
+
+<img src="assets/readme-images/support-us-screenshot.png">
+
+### Footer
+
+The footer which is found at the bottom of each page, is used to host our social media links to Facebook, Twitter, Youtube and Instagram. It also hold an education declaration.
+
+<img src="assets/readme-images/footer-screenshot.png">
 
 ## Testing
 
