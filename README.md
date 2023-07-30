@@ -37,6 +37,28 @@ My goal was to make the site as accessible to all, I used https://contrast-grid.
 
 ## Features
 
+### The Header
+
+The header element is a static element, It is the primary navigation tool for the site. With links to the home, Wildlife, Sports & Recreation, and Support Us! pages. Within my wireframes I originaly designed the title to be above the nav bar. 
+
+<img src="assets/readme-images/wireframes-header.png">
+
+However, I decided against this early on when designing the site as I belived that it would leave to much unused space on the top section. Using flexbox I decided to have the title placed central with the links either side.
+
+<img src="assets/readme-images/header-screenshot.png">
+
+I added the active attribute to aid users in which page they are on and also the hover attribute to the header to give users a positive response.
+
+I wanted to ensure that my site could be accessed by multiple device types and screen sizes. So using media quires I have ensure that the header remains clear and useable down to atleast 320px width.
+
+#### Tablet:
+
+<img src="assets/readme-images/header-tablet.png">
+
+#### Mobile:
+
+<img src="assets/readme-images/header-mobile.png">
+
 ## Testing
 
 ## Deployment
