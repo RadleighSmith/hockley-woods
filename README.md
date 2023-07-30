@@ -119,8 +119,27 @@ The footer which is found at the bottom of each page, is used to host our social
 <img src="assets/readme-images/footer-screenshot.png">
 
 ### Future Features
+
+* Interactive Gallery / Photography Page - Allow users to upload images creating a sense of ownership and pride among the community.
+* Clubs Page - Allow Clubs to promote themsleves to futher engage the community and encourage participation
+* Condence the header into a drop down menu when in mobile view
+* History Page - Showcase the historical importance of Hockley Woods.
+
+
 ## Testing
 
+Throughout Development I have tested the site rigorously by using the following devices and aplications:
+
+* Macbook Pro 13" Safari, - Chrome and Firefox
+* Windows PC (Windows 11) on a 1440p 27" monitor - Chrome, Firefox and edge
+* Ipad Air (5th Gen) - Safari and Chrome
+* Ipad Pro (4th Gen) - Safari and Chrome
+* Iphone 13 Pro Max - Safari and Chrome
+* Iphone 11 - Safari and Chrome
+
+I made use of Google chromes dev tools to allow to me emulate other devices not a my disposal, I also was able to test it in the responsive dimesion in real-time.
+
+<img src="assets/readme-images/google-dev-tools-screenshot.png">
 
 ## Deployment
 
