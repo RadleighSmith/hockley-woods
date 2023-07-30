@@ -141,6 +141,18 @@ I made use of Google chromes dev tools to allow to me emulate other devices not 
 
 <img src="assets/readme-images/google-dev-tools-screenshot.png">
 
+### Lighthouse
+
+When pushing the website through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accesibility.
+
+<img src="assets/readme-images/lighthouse-before-fix.png">
+
+<img src="assets/readme-images/lighthouse-map-error.png">
+
+However after adding a title attribute to the map this error was cleared.
+
+<img src="assets/readme-images/lighthouse-after-fix.png">
+
 ## Deployment
 
 ## Credits
