@@ -65,7 +65,7 @@ I wanted to ensure that my site could be accessed by multiple device types and s
 
 I have used a hero image only on the home page to welcome visitors, I have done this to add to the user experience and overall visual appeal. As the hero image is the first thing visitors will see when landing on my site it needed to be relevant while also grabbing their attention immediately, encouraging them to explore further. 
 
-I also used hero text to spark curiosity with users to want to dive deeper into the website. I used contrasting colours with a RGBA background to add transparency so it did'nt take complete focus from the hero image itself.
+I also used hero text to spark curiosity with users to want to dive deeper into the website. I used contrasting colours with a RGBA background to add transparency so it didn't take complete focus from the hero image itself.
 
 <img src="assets/readme-images/hero-image-screenshot.png">
 
