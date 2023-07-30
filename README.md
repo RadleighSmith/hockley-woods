@@ -84,7 +84,7 @@ The next section is some aditional links, the reason I have added these is becau
 
 <img src= "assets/readme-images/additional-links-screenshot.png">
 
-The last section of the home page before the footer is the 'How to find us' section this include an interactive google maps, Address, and basic directions from main roads and public transport.
+The last section of the home page before the footer is the 'How to find us' section this include an interactive google maps, Address, and basic directions from main roads and public transport. I originally planed for this to have its own page but decided that it would be best situated on the home page.
 
 <img src="assets/readme-images/find-us-screenshot.png">
 
@@ -118,6 +118,7 @@ The footer which is found at the bottom of each page, is used to host our social
 
 <img src="assets/readme-images/footer-screenshot.png">
 
+### Future Features
 ## Testing
 
 
