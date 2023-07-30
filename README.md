@@ -31,6 +31,10 @@ With the site being designed around nature, I decided early on that I wanted the
 
 I used http://colormind.io/ to design my colour scheme. I decided to the use green (#4c645c) on the header and footer to keep it consistant with white (#ffffff) to contrast against this. I used the slightly off white (#f3eada) to add a contrasting background and give the impression on depth while the sites information is on the white (#ffffff) background. I used the yellow (#ecba0e) colour on the header to contrast againt the green (#4c645c) header to make the support us button stand out to users. 
 
+My goal was to make the site as accessible to all, I used https://contrast-grid.eightshapes.com/ to check that my colours contrasted against each other.
+
+<img src="assets/readme-images/colour-contrast-grid.png">
+
 ## Features
 
 ## Testing
