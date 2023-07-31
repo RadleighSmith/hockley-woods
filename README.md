@@ -168,4 +168,36 @@ Please find the live site via this URL - [Hockley Woods Live Website](https://ra
 
 ## Media
 
+I used [Unsplash](https://unsplash.com/) website to get the majority of the images used in this project. 
+
+Please find a list of all the images used with their respective owner.
+
+| Image |  Image Credit |
+| ------------- | ------------- |
+| [hero-image.jpg](assets/images/hero-image.jpg) | [Click and Learn Photography](https://unsplash.com/@clickandlearnphotography) |
+| [woodland.jpg](assets/images/woodland.jpg) | [Joyce G](https://unsplash.com/@joyce_) |
+| [sports-link.jpeg](assets/images/sports-link.jpeg) | [Quenten Janssen](https://unsplash.com/@quenten10) |
+| [wildlife-link.jpeg](assets/images/wildlife-link.jpeg)  | [Jeremy Hynes](https://unsplash.com/@hyneseyes) |
+| [birds.jpg](assets/images/birds.jpg)  | [Erik van Dijk](https://unsplash.com/@erikvandijk) |
+| [squirrel.jpg](assets/images/squirrel.jpg)  | [Andrey Svistunov](https://unsplash.com/@svistal13) |
+| [deer.jpg](assets/images/deer.jpg)  | [Yann Lerjen](https://unsplash.com/@ylerjen) |
+| [foxes.jpg](assets/images/foxes.jpg)  | [Jeremy Hynes](https://unsplash.com/@hyneseyes) |
+| [critters.jpg](assets/images/critters.jpg)  | [Lukas Seitz](https://unsplash.com/@lukasseitz) |
+| [instects.jpg](assets/images/insects.jpg)  | [Heather Wilde](https://unsplash.com/@heather_wilde) |
+| [mountain-bike.jpg](assets/images/mountain-bike.jpg)  | [Tim Foster](https://unsplash.com/@timberfoster) |
+| [running.jpg](assets/images/running.jpg)  | [Onur Binay](https://unsplash.com/@onurbinay) |
+| [hiking.jpg](assets/images/hiking.jpg) | [Stéphane Fellay](https://unsplash.com/@fins) |
+| [dogs.jpg](assets/images/dogs.jpg)  | Myself - Radleigh Smith  |
+| [swing.jpg](assets/images/swing.jpg) | [Annie Spratt](https://unsplash.com/@anniespratt)  |
+| [picnic.jpg](assets/images/picnic.jpg)  | [Jennie Clavel](https://unsplash.com/@ohpeach_33)  |
+
+All photos have been used within [Unsplash's Licence](https://unsplash.com/license)
+
+I used [Optimizilla](https://imagecompressor.com/) to compress the image sizes.
+
+I also used [Simple Image Resizer](https://www.simpleimageresizer.com/) to resize images while keeping their aspect ratio.
+
+
 ## Credits
+
+
