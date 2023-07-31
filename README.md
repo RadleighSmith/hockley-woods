@@ -153,7 +153,19 @@ However after adding a title attribute to the map this error was cleared.
 
 <img src="assets/readme-images/lighthouse-after-fix.png">
 
+### ARC Toolkit
+
 ## Deployment
 
-## Credits
+I deployed the site on GitHub Pages using the following method:
 
+1. From my project [repository](https://github.com/RadleighSmith/hockley-woods), navigate to the settings tab.
+2. From the left hand menu, select the pages option.
+3. From the source section drop-down menu, select the Main Branch.
+4. Once the main Branch has been selected, A message will appear and indicate a successful deployment to GitHub pages. A link will also be provided to the site.
+
+Please find the live site via this URL - [Hockley Woods Live Website](https://radleighsmith.github.io/hockley-woods/index.html)
+
+## Media
+
+## Credits
