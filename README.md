@@ -11,13 +11,21 @@ Hockley Woods is a picturesque woodland located in Essex, England. As one of the
 ### Target Audience:
  
  The Hockley Woods website has been designed to cater for a number of different target audiences these include:
+
  * Families
+
  * Nature enthusiasts
+
  * Outdoor adventures
+
  * Dog walkers
+
  * Runners
+
  * Hikers
+
  * Cyclists
+
 
  ### Website Aim:
 
@@ -121,9 +129,13 @@ The footer which is found at the bottom of each page, is used to host our social
 ### Future Features
 
 * Interactive Gallery / Photography Page - Allow users to upload images creating a sense of ownership and pride among the community.
+
 * Clubs Page - Allow Clubs to promote themsleves to futher engage the community and encourage participation
+
 * Condence the header into a drop down menu when in mobile view
+
 * History Page - Showcase the historical importance of Hockley Woods.
+
 
 
 ## Testing
@@ -131,11 +143,17 @@ The footer which is found at the bottom of each page, is used to host our social
 Throughout Development I have tested the site rigorously by using the following devices and aplications:
 
 * Macbook Pro 13" Safari, - Chrome and Firefox
+
 * Windows PC (Windows 11) on a 1440p 27" monitor - Chrome, Firefox and edge
-* Ipad Air (5th Gen) - Safari and Chrome
-* Ipad Pro (4th Gen) - Safari and Chrome
-* Iphone 13 Pro Max - Safari and Chrome
-* Iphone 11 - Safari and Chrome
+
+* iPad Air (5th Gen) - Safari and Chrome
+
+* iPad Pro (4th Gen) - Safari and Chrome
+
+* iPhone 13 Pro Max - Safari and Chrome
+
+* iPhone 11 - Safari and Chrome
+
 
 I made use of Google chromes dev tools to allow to me emulate other devices not a my disposal, I also was able to test it in the responsive dimesion in real-time.
 
@@ -160,8 +178,11 @@ However after adding a title attribute to the map this error was cleared.
 I deployed the site on GitHub Pages using the following method:
 
 1. From my project [repository](https://github.com/RadleighSmith/hockley-woods), navigate to the settings tab.
+
 2. From the left hand menu, select the pages option.
+
 3. From the source section drop-down menu, select the Main Branch.
+
 4. Once the main Branch has been selected, A message will appear and indicate a successful deployment to GitHub pages. A link will also be provided to the site.
 
 Please find the live site via this URL - [Hockley Woods Live Website](https://radleighsmith.github.io/hockley-woods/index.html)
@@ -197,7 +218,39 @@ I used [Optimizilla](https://imagecompressor.com/) to compress the image sizes.
 
 I also used [Simple Image Resizer](https://www.simpleimageresizer.com/) to resize images while keeping their aspect ratio.
 
-
 ## Credits
 
+###  Content
 
+* The hover and active CSS classes are inspired from Code Institue's Love Running Project.
+
+* Some information on the home page was taken from the [Rochford Council Website](https://www.rochford.gov.uk/hockley-woods)
+
+* The form on the site is inspired by the Code Institute's Coders Coffeehouse code along project.
+
+* I learnt the basics of flexbox by using the "flex-test" provided to me by my Code Institute mentor Richard Wells.
+
+* All social media icons used on the site were sourced from: [Font Awesome](https://fontawesome.com)
+
+* I used [ChatGBT](https://chat.openai.com/) to help populate some of the information across the site.
+
+* Fonts used across the site are from [Google Fonts](https://fonts.google.com/)
+
+
+### Thank You
+
+* Code Institute
+
+    I must say a thank you to the entire Code Institue team for inspiring me to persue my dreams of becoming a full stack software developer. Through the well presented lession or their continued support on slack, I truly appriciate everything they do.
+
+* Richard Wells - Code Institute Mentor.
+
+    I feel extremily fortunate to have Richard mentoring me through this, it has been quite overwhelming at times but his continued support has kept me on track and focused in the areas that need it most. I am truly greatful for his help.
+
+* My Friends and Family
+
+    Throughout this project I have been so greatful to my friends and family, Unfortunatly they arent developers but they have helped me massivly by proof reading my work for spelling mistakes as I suffer with Dylexia. I have come alongway but cannot thank them enough.
+
+* My Girlfriend Ciara
+
+    Without her support from the very start telling me to persue my dream I dont think I would be in the position I am now. Your support has been unbelivable and I thank you from the bottom of my heart.
