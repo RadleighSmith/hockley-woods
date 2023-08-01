@@ -60,6 +60,35 @@ My goal was to make the site accessible to all, I used https://contrast-grid.eig
 
 <img src="docs/readme-images/colour-contrast-grid.png">
 
+
+### Wireframes
+
+The design changed during devlopment from the original wireframe plan. The gallery was removed as this is a 'would like feature' and was not imperative for the first launch. The how to find us page was also moved to the home page as this felt more relevent.
+
+Home page:
+
+<img src="docs/readme-images/wireframes-homepage.png">
+
+Wildlife page:
+
+<img src="docs/readme-images/wireframes-wildlife.png">
+
+Gallery page:
+
+<img src="docs/readme-images/wireframes-gallery.png">
+
+Sports page:
+
+<img src="docs/readme-images/wireframes-sports.png">
+
+How to find us page:
+
+<img src="docs/readme-images/wireframes-find-us.png">
+
+Support us page:
+
+<img src="docs/readme-images/wireframes-support-us.png">
+
 ### Typography
 
 Throughout the site I used two different fonts.
