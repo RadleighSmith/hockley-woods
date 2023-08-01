@@ -78,7 +78,7 @@ The header element is a static element, It is the primary navigation tool for th
 
 <img src="docs/readme-images/wireframes-header.png">
 
-However, I decided against this early on when designing the site as I belived that it would leave to much unused space on the top section. Using flexbox I decided to have the title placed central with the links either side.
+However, I decided against this early on when designing the site as I belived that it would leave to much unused space on the top section and could be distracting to the user. Using flexbox I decided to have the title placed central with the links either side.
 
 <img src="docs/readme-images/header-screenshot.png">
 
@@ -147,6 +147,10 @@ The support us page informs visitors in a way they could support us, it also inc
 
 <img src="docs/readme-images/support-us-screenshot.png">
 
+After succesfully completing the form the user will be taken to a thank you page, I implimented this to give the user positive feedback once they completed the form.
+
+<img src="docs/readme-images/thank-you-page-screenshot.png">
+
 ### Footer
 
 The footer which is found at the bottom of each page, is used to host our social media links to Facebook, Twitter, Youtube and Instagram. It also holds an education declaration.
@@ -192,6 +196,9 @@ I made use of Google Chrome dev tools to allow to me emulate other devices not a
 
 ### Lighthouse
 
+#### Home page
+
+
 When pushing the website through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accessibility.
 
 <img src="docs/readme-images/lighthouse-before-fix.png">
@@ -201,6 +208,8 @@ When pushing the website through the lighthouse extension I was getting an error
 However, after adding a title attribute to the map this error was cleared.
 
 <img src="docs/readme-images/lighthouse-after-fix.png">
+
+#### 
 
 ### Bugs
 
