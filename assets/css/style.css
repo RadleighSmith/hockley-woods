@@ -442,7 +442,7 @@ footer {
 
 /* For screen sizes 750px wide and below */
 
-@media screen and (max-width:750rpx) {
+@media screen and (max-width:750px) {
 
     .col2 {
         order: 1;
