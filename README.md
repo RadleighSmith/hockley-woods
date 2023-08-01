@@ -470,6 +470,8 @@ I also used [Simple Image Resizer](https://www.simpleimageresizer.com/) to resiz
 
 * I used [ChatGBT](https://chat.openai.com/) to help populate some of the information across the site.
 
+* I used [Balsamiq](https://balsamiq.com/) for creating my wireframes.
+
 * Fonts used across the site are from [Google Fonts](https://fonts.google.com/)
 
 
