@@ -186,6 +186,10 @@ The footer which is found at the bottom of each page, is used to host our social
 
 <img src="docs/readme-images/footer-screenshot.png">
 
+### 404 Error Page
+
+I add a 404 error page not found just incase a page doesnt exist so users will be directed to here and can easily navigate to the home page.
+
 ### Future Features
 
 * Interactive Gallery / Photography Page - Allow users to upload images creating a sense of ownership and pride among the community.
