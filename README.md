@@ -198,8 +198,9 @@ I made use of Google Chrome dev tools to allow to me emulate other devices not a
 
 #### Home page
 
+Desktop testing of home page:
 
-When pushing the website through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accessibility.
+When pushing the Home page through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accessibility.
 
 <img src="docs/readme-images/lighthouse-before-fix.png">
 
@@ -209,7 +210,51 @@ However, after adding a title attribute to the map this error was cleared.
 
 <img src="docs/readme-images/lighthouse-after-fix.png">
 
-##### Mobile 
+Mobile Testing of home page: 
+
+<img src="docs/readme-images/lighthouse-homepage-mobile.png">
+
+The performance score was lower in this test due to the size of the images, however due to this site being designed for desktops and mobile devices the images needed to be larger.
+
+#### Wildlife Page
+
+Desktop testing of wildlife page:
+
+<img src="docs/readme-images/lighthouse-wildlife-desktop.png">
+
+Mobile testing of widlife page:
+
+<img src="docs/readme-images/lighthouse-wildlife-mobile.png">
+
+#### Sports & Recreation Page
+
+Desktop testing of Sports & Recreation page:
+
+<img src="docs/readme-images/lighthouse-sports-desktop.png">
+
+Mobile testing of Sports & Recreation page:
+
+<img src="docs/readme-images/lighthouse-sports-mobile.png">
+
+#### Support us Page
+
+Desktop testing of the Support us page:
+
+<img src="docs/readme-images/lighthouse-supportus-desktop.png">
+
+Mobile testing of the support us page:
+
+<img src="docs/readme-images/lighthouse-supportus-mobile.png">
+
+#### Thank you Page
+
+Desktop testing of the thank you page:
+
+<img src="docs/readme-images/lighthouse-thankyou-desktop.png">
+
+Mobile testing of the thank you page:
+
+<img src="docs/readme-images/lighthouse-wildlife-mobile.png">
 
 ### Functional testing
 
