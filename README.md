@@ -171,6 +171,8 @@ Throughout Development I have tested the site rigorously by using the following 
 
 * iPhone 11 - Safari and Chrome
 
+* Samsung Galaxy Fold - Chrome 
+
 
 I made use of Google Chrome dev tools to allow to me emulate other devices not a my disposal, I also was able to test it in the responsive dimension in real-time.
 
@@ -187,6 +189,10 @@ When pushing the website through the lighthouse extension I was getting an error
 However, after adding a title attribute to the map this error was cleared.
 
 <img src="docs/readme-images/lighthouse-after-fix.png">
+
+### Bugs
+
+* Fixed an issue where all the media queries stoped working due to a typo on the 750px query where the max-width measurement was spelt rpx instead of px.
 
 
 ## Languages
