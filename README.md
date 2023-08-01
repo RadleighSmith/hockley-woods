@@ -2,7 +2,7 @@
 
 Hockley Woods is a picturesque woodland located in Essex, England. As one of the largest surviving areas of ancient woodland in the region, it boasts a diverse ecosystem and an abundance of wildife. Visitors can often spot a variety of its wildlife including deer, foxes, birds, and small mammals. Its scenic trials and pathways offer opportunities for leisurely walks, family picnics, and other outdoor activities and sports, making it a popular location for families, wildlife enthusiasts, outdoor adventurers and anyone looking for an escape from urban life as Hockley Woods offers a great chance to reconnect with nature's wonders.
 
-<img src="assets/readme-images/responsive-image.png">
+<img src="docs/readme-images/responsive-image.png">
 
 ## Contents
 
@@ -13,6 +13,8 @@ Hockley Woods is a picturesque woodland located in Essex, England. As one of the
 [Testing](https://github.com/RadleighSmith/hockley-woods#testing)
 
 [Deployment](https://github.com/RadleighSmith/hockley-woods#deployment)
+
+[Languages](https://github.com/RadleighSmith/hockley-woods#languages)
 
 [Media](https://github.com/RadleighSmith/hockley-woods#media)
 
@@ -50,13 +52,13 @@ My site aim is to inform local and outside visitors of what Hockley Woods has to
 
 With the site being designed around nature, I decided early on that I wanted the website to use natural colours, Nothing that would distract the user away from the information but a scheme that clearly depicted that it was designed with the colours of nature in mind.
 
-<img src="assets/readme-images/color-grid.png">
+<img src="docs/readme-images/color-grid.png">
 
 I used http://colormind.io/ to design my colour scheme. I decided to use green (#4c645c) on the header and footer to keep it consistent with white (#ffffff) to contrast against this. I used the slightly off-white (#f3eada) to add a contrasting background and give the impression of depth while the site's information is on the white (#ffffff) background. I used the yellow (#ecba0e) colour on the header to contrast against the green (#4c645c) header to make the support us button stand out to users. 
 
 My goal was to make the site accessible to all, I used https://contrast-grid.eightshapes.com/ to check that my colours contrasted against each other.
 
-<img src="assets/readme-images/colour-contrast-grid.png">
+<img src="docs/readme-images/colour-contrast-grid.png">
 
 ## Features
 
@@ -64,11 +66,11 @@ My goal was to make the site accessible to all, I used https://contrast-grid.eig
 
 The header element is a static element, It is the primary navigation tool for the site. With links to the home, Wildlife, Sports & Recreation, and Support Us! pages. Within my wireframes I originaly designed the title to be above the nav bar. 
 
-<img src="assets/readme-images/wireframes-header.png">
+<img src="docs/readme-images/wireframes-header.png">
 
 However, I decided against this early on when designing the site as I belived that it would leave to much unused space on the top section. Using flexbox I decided to have the title placed central with the links either side.
 
-<img src="assets/readme-images/header-screenshot.png">
+<img src="docs/readme-images/header-screenshot.png">
 
 I added the active attribute to aid users in which page they are on and also the hover attribute to the header to give users a positive response.
 
@@ -76,11 +78,11 @@ I wanted to ensure that my site could be accessed by multiple device types and s
 
 #### Tablet:
 
-<img src="assets/readme-images/header-tablet.png">
+<img src="docs/readme-images/header-tablet.png">
 
 #### Mobile:
 
-<img src="assets/readme-images/header-mobile.png">
+<img src="docs/readme-images/header-mobile.png">
 
 ### Home Page
 
@@ -90,26 +92,26 @@ I have used a hero image only on the home page to welcome visitors, I have done 
 
 I also used hero text to spark curiosity with users to want to dive deeper into the website. I used contrasting colours with an RGBA background to add transparency so it didn't take complete focus from the hero image itself.
 
-<img src="assets/readme-images/hero-image-screenshot.png">
+<img src="docs/readme-images/hero-image-screenshot.png">
 
 
 #### Home page content
 
 The home page excluding the hero image and text is split into 4 sections. Starting with the welcome paragraph and image, this section is focused on inviting the visitor into the website giving a basic overview of Hockley Woods. In this I have include a picture of a woodland during a sunrise, and some basic facts about the woods. I have used information from the local council here and they are credited below. 
 
-<img src="assets/readme-images/welcome-text-screenshot.png">
+<img src="docs/readme-images/welcome-text-screenshot.png">
 
 The next section is a quote, I have used this to space the page out so the user isnt overwhelmed with information. 
 
-<img src="assets/readme-images/quote-screenshot.png">
+<img src="docs/readme-images/quote-screenshot.png">
 
 The next section is a quote, I have used this to space the page out so the user isn't overwhelmed with information. 
 
-<img src= "assets/readme-images/additional-links-screenshot.png">
+<img src= "docs/readme-images/additional-links-screenshot.png">
 
 The last section of the home page before the footer is the 'How to find us' section this includes an interactive google maps, Address, and basic directions from main roads and public transport. I originally planned for this to have its own page but decided that it would be best situated on the home page.
 
-<img src="assets/readme-images/find-us-screenshot.png">
+<img src="docs/readme-images/find-us-screenshot.png">
 
 ### Wildlife Page
 
@@ -117,29 +119,29 @@ The wildlife page has been designed for visitors who are interested in what they
 
 The page has been designed with a flexbox grid with images placed in the small columns and the text in the large columns, using this design made it very easy to add media queries to scale the content for smaller screens. Screens that are 750px wide or less the content will be aligned to the middle with the pictures located above the text.
 
-<img src="assets/readme-images/wildlife-page-screenshot.png">
+<img src="docs/readme-images/wildlife-page-screenshot.png">
 
-<img src="assets/readme-images/mobile-wildlife-screenshot.png">
+<img src="docs/readme-images/mobile-wildlife-screenshot.png">
 
 ### Sports and Recreation Page
 
 The Sports & Recreation page has been designed for visitors who may be interested in different activities around the woods, it opens with an opening paragraph which is a basic summary of some of the activities. The second part of the page was designed with a flexbox grid which goes into more detail about each of the activities on offer. This page scales very similarly to the wildlife page with screens 630px or smaller.
 
-<img src="assets/readme-images/sports-page-screenshot.png">
+<img src="docs/readme-images/sports-page-screenshot.png">
 
-<img src="assets/readme-images/mobile-sports-screenshot.png">
+<img src="docs/readme-images/mobile-sports-screenshot.png">
 
 ### Support us! Page
 
 The support us page informs visitors in a way they could support us, it also includes a form in which users will leave their first and last name along with an email, where we can get in touch personally. I currently have used the code institute landing page to show that it works. However, shortly, I hope to add some back-end structure to the site so this works correctly.
 
-<img src="assets/readme-images/support-us-screenshot.png">
+<img src="docs/readme-images/support-us-screenshot.png">
 
 ### Footer
 
 The footer which is found at the bottom of each page, is used to host our social media links to Facebook, Twitter, Youtube and Instagram. It also holds an education declaration.
 
-<img src="assets/readme-images/footer-screenshot.png">
+<img src="docs/readme-images/footer-screenshot.png">
 
 ### Future Features
 
@@ -172,21 +174,24 @@ Throughout Development I have tested the site rigorously by using the following 
 
 I made use of Google Chrome dev tools to allow to me emulate other devices not a my disposal, I also was able to test it in the responsive dimension in real-time.
 
-<img src="assets/readme-images/google-dev-tools-screenshot.png">
+<img src="docs/readme-images/google-dev-tools-screenshot.png">
 
 ### Lighthouse
 
 When pushing the website through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accessibility.
 
-<img src="assets/readme-images/lighthouse-before-fix.png">
+<img src="docs/readme-images/lighthouse-before-fix.png">
 
-<img src="assets/readme-images/lighthouse-map-error.png">
+<img src="docs/readme-images/lighthouse-map-error.png">
 
 However, after adding a title attribute to the map this error was cleared.
 
-<img src="assets/readme-images/lighthouse-after-fix.png">
+<img src="docs/readme-images/lighthouse-after-fix.png">
 
-### ARC Toolkit
+
+## Languages
+
+The coding languages used to create this site were HTML and CSS.
 
 ## Deployment
 
@@ -232,6 +237,7 @@ All photos have been used within [Unsplash's Licence](https://unsplash.com/licen
 I used [Optimizilla](https://imagecompressor.com/) to compress the image sizes.
 
 I also used [Simple Image Resizer](https://www.simpleimageresizer.com/) to resize images while keeping their aspect ratio.
+
 
 ## Credits
 
