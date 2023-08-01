@@ -37,19 +37,23 @@ a {
 }
 
 .text-spacing {
-    padding: 1.875em 1.875em 0 1.875em;
+    padding: 1.875rem 1.875rem 0 1.875rem;
 }
 
 .spacing {
-    padding: 1.875em 1.875em 1.875em 1.875em;
+    padding: 1.875rem 1.875rem;
+}
+
+.content-brake {
+    margin-bottom: 1rem;
 }
 
 /* Heading */
 
 .nav-bar {
     background-color: #4C645C;
-    padding-top: 1.875em;
-    padding-bottom: 1.875em;
+    padding-top: 1.875rem;
+    padding-bottom: 1.875rem;
     align-items: baseline;
 }
 
@@ -72,8 +76,8 @@ a {
 #support-us {
     border: 1px solid #000000;
     background-color: #ECBA0E;
-    padding: 0.625em;
-    margin-right: 0.625em;
+    padding: 0.625rem;
+    margin-right: 0.625rem;
 }
 
 #support-us>.nav-links {
@@ -119,7 +123,7 @@ a {
 /* Hero Image */
 
 #hero-image-container {
-    height: 43.75em;
+    height: 43.75rem;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -128,7 +132,7 @@ a {
 }
 
 #hero-image {
-    height: 43.75em;
+    height: 43.75rem;
     width: 100%;
     background: url(../images/hero-image.jpg);
     background-repeat: no-repeat;
@@ -139,29 +143,29 @@ a {
     font-family: Nunito, sans-serif;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.7);
-    border-radius: 0.625em;
-    padding: 0.625em;
+    border-radius: 0.625rem;
+    padding: 0.625rem;
     position: absolute;
     text-align: center;
 }
 
 /* Page style */
 .page-style {
-    margin: 2.5em 11.25em;
+    margin: 2.5rem 11.25rem;
     background-color: white;
 }
 
 /* Welcome Paragraph */
 
 #welcome-paragraph {
-    padding: 1.875em;
+    padding: 1.875rem;
     text-align: center;
 }
 
 #welcome-paragraph>h3 {
     font-family: Barlow Semi Condensed, sans-serif;
     letter-spacing: 1px;
-    font-size: 1.625em;
+    font-size: 1.625rem;
 }
 
 /* Welcome Paragraph extended */
@@ -172,17 +176,17 @@ a {
 
 .welcome-extended-left {
     flex: 55%;
-    padding: 0.625em 1.875em 0.625em 1.875em;
+    padding: 0.625rem 1.875rem;
 }
 
 .welcome-extended-right {
     flex: 45%;
-    padding: 0.625em 1.875em 0.625em 1.875em;
+    padding: 0.625rem 1.875rem;
 }
 
 #dirt-path {
     width: 100%;
-    border-radius: 0.625em;
+    border-radius: 0.625rem;
 }
 
 /* Quote */
@@ -190,9 +194,9 @@ a {
 #quote {
     text-align: center;
     font-style: italic;
-    font-size: 1.125em;
+    font-size: 1.125rem;
 
-    padding: 1.875em;
+    padding: 1.875rem;
 }
 
 /* Additional Links to Wildlife, Sports and Recreation,*/
@@ -203,7 +207,7 @@ a {
 
 .links-column {
     flex: 50%;
-    margin: 1.875px;
+    margin: 1.875rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -216,7 +220,7 @@ a {
 }
 
 .links {
-    max-width: 25em;
+    max-width: 25rem;
 }
 
 .links>h3 {
@@ -225,7 +229,7 @@ a {
 
 .links-image {
     width: 75%;
-    max-width: 21.875em;
+    max-width: 21.875rem;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
@@ -234,20 +238,20 @@ a {
 /* How to find us section*/
 
 #find-us {
-    padding: 1.875em;
+    padding: 1.875rem;
 }
 
 #find-us-heading {
     text-align: center;
     letter-spacing: 1px;
-    font-size: 1.625em;
-    padding: 1.875em;
+    font-size: 1.625rem;
+    padding: 1.875rem;
 
 }
 
 .map {
     width: 100%;
-    height: 28.125em;
+    height: 28.125rem;
 }
 
 
@@ -258,13 +262,13 @@ a {
 #wildlife-heading>h2 {
     text-align: center;
     letter-spacing: 1px;
-    font-size: 1.625em;
-    padding: 1.875em;
+    font-size: 1.625rem;
+    padding: 1.875rem;
 }
 
 #wildlife-heading>p {
     text-align: center;
-    padding: 0 1.875em 0 1.875em;
+    padding: 0 1.875rem 0 1.875rem;
 }
 
 /* Wildlife images */
@@ -282,7 +286,7 @@ a {
 }
 
 .wildlife-col-large>p {
-    margin-top: 0.94em;
+    margin-top: 0.94rem;
     padding: 5px;
 }
 
@@ -310,7 +314,7 @@ a {
 /* Sports intro */
 
 #sports-intro {
-    padding: 1.875em;
+    padding: 1.875rem;
     text-align: center;
 }
 
@@ -322,7 +326,7 @@ a {
 }
 
 .sports-grid-heading {
-    padding-top: 0.625em;
+    padding-top: 0.625rem;
     border-bottom: 1px solid #000000;
     width: 100%;
 }
@@ -333,13 +337,13 @@ a {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    gap: 0.625em;
-    padding: 1.875em;
+    gap: 0.625rem;
+    padding: 1.875rem;
     width: calc(100% - 3.75em);
 }
 
 .sports-grid {
-    flex-basis: calc(33.33% - 1.25em);
+    flex-basis: calc(33.33% - 1.25rem);
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -347,8 +351,8 @@ a {
 }
 
 .sports-grid p {
-    padding-top: 1.875em;
-    padding-bottom: 1.875em;
+    padding-top: 1.875rem;
+    padding-bottom: 1.875rem;
 }
 
 /* Support Us Page */
@@ -357,9 +361,9 @@ a {
 
 form {
     background-color: #e2e2e2;
-    max-width: 25em;
+    max-width: 25rem;
     margin: 0 auto;
-    padding: 1.875em;
+    padding: 1.875rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -371,7 +375,7 @@ form label {
 
 form input {
     width: 100%;
-    padding: 0.625em;
+    padding: 0.625rem;
     margin-bottom: 0.94;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -388,7 +392,7 @@ form input[type=submit] {
 /* Footer */
 
 footer {
-    height: 6.25em;
+    height: 6.25rem;
     background-color: #4C645C;
 }
 
@@ -401,7 +405,7 @@ footer {
 }
 
 .social-media i {
-    font-size: 200%;
+    font-size: 2rem;
     margin: 1%;
     padding: 5px;
     color: #ffffff;
@@ -409,9 +413,9 @@ footer {
 
 #education-declaration {
     text-align: center;
-    padding-bottom: 0.625em;
+    padding-bottom: 0.625rem;
     font-style: italic;
-    font-size: 0.75em;
+    font-size: 0.75rem;
     color: #ffffff;
 }
 
@@ -421,7 +425,7 @@ footer {
 
 @media screen and (max-width:1200px) {
     .page-style {
-        margin: 1.25em;
+        margin: 1.25rem;
     }
 }
 
@@ -437,7 +441,7 @@ footer {
 
 /* For screen sizes 750px wide and below */
 
-@media screen and (max-width:750px) {
+@media screen and (max-width:750rpx) {
 
     .col2 {
         order: 1;
@@ -466,8 +470,8 @@ footer {
     .wildlife-col-large {
         order: 2;
         text-align: center;
-        padding-top: 0.625em;
-        padding-bottom: 0.625em;
+        padding-top: 0.625rem;
+        padding-bottom: 0.625rem;
     }
 }
 
@@ -491,7 +495,7 @@ footer {
     .col1 {
         order: 2;
         width: 100%;
-        padding: 0.625em;
+        padding: 0.625rem;
     }
 
     .col3 {
