@@ -376,7 +376,7 @@ form label {
 form input {
     width: 100%;
     padding: 0.625rem;
-    margin-bottom: 0.94;
+    margin-bottom: 0.94rem;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
