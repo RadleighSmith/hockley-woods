@@ -318,7 +318,49 @@ Mobile testing of the thank you page:
 
 ### Validator Testing
 
+#### W3C Validation
 
+I ran all the pages through the validation service with the following results:
+
+Home Page:
+
+When pushing the Home page through the validator I got a warning for not adding a header to the quote section. I have decided not to add a header to this section as I dont think it will aid the user. Other than this it passed no issues.
+
+<img src="docs/readme-images/homepage-w3c-screenshot.png">
+
+Wildlife Page:
+
+Passed no issues
+
+<img src="docs/readme-images/wildlife-w3c-screenshot.png">
+
+Sports & Recreation Page:
+
+Passed no issues
+
+<img src="docs/readme-images/sports-w3c-screenshot.png">
+
+Support Us Page:
+
+Passed no issues
+
+<img src="docs/readme-images/support-us-w3c-screenshot.png">
+
+Thank You Page:
+
+Passed no issues
+
+<img src="docs/readme-images/thankyou-w3c-screenshot.png">
+
+#### Jigsaw Validation
+
+When I ran the stylesheet.css through the validatior I got an error for a missing measurement unit.
+
+<img src="docs/readme-images/css-jigsaw-error.png">
+
+After adding the correct mesurement unit the style sheet passed with no issues.
+
+<img src="docs/readme-images/css-jigsaw-fix.png">
 
 ### Bugs
 
