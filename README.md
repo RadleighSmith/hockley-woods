@@ -1,6 +1,6 @@
 # Hockley Woods
 
-Hockley Woods is a picturesque woodland located in Essex, England. As one of the largest surviving areas of ancient wodland in the region, it boasts a diverse ecosystem and an abundance of wlldife. Visitors can often spot a variety of its wildlife including deer, foxes, birds, and small mammals. Its scenic trials and pathways offer opportunities for leisurly walks, family picnics, and other outdoor activities and sports, making it a popular locaton for families, wildlife enthusiasts, outdoor adventureres and anyone looking for an escape from urban life as hockley woods offers a great chance to reconnect with nature's wonders.
+Hockley Woods is a picturesque woodland located in Essex, England. As one of the largest surviving areas of ancient woodland in the region, it boasts a diverse ecosystem and an abundance of wildife. Visitors can often spot a variety of its wildlife including deer, foxes, birds, and small mammals. Its scenic trials and pathways offer opportunities for leisurely walks, family picnics, and other outdoor activities and sports, making it a popular location for families, wildlife enthusiasts, outdoor adventurers and anyone looking for an escape from urban life as Hockley Woods offers a great chance to reconnect with nature's wonders.
 
 <img src="assets/readme-images/responsive-image.png">
 
@@ -25,7 +25,7 @@ Hockley Woods is a picturesque woodland located in Essex, England. As one of the
 
 ### Target Audience:
  
- The Hockley Woods website has been designed to cater for a number of different target audiences these include:
+ The Hockley Woods website has been designed to cater several of different target audiences these include:
 
  * Families
 
@@ -44,7 +44,7 @@ Hockley Woods is a picturesque woodland located in Essex, England. As one of the
 
  ### Website Aim:
 
- The aim of my site is to inform local and outside visitiors of what Hockley Woods has to offer. I would like visitiors to be able to seamlessly navigate around my site whislt being informed of useful information from wildlife to different types of activities that is permitted inside the woods. Whilst achiving this I want to express the important points of enjoying everything on offer whilst remaining respectful to the wildlife, environment and other visitors.
+My site aim is to inform local and outside visitors of what Hockley Woods has to offer. I would like visitors to be able to seamlessly navigate around my site whilst being informed of useful information from wildlife to different types of activities that are permitted inside the woods. Whilst achieving this I want to express the important points of enjoying everything on offer whilst remaining respectful to the wildlife, environment and other visitors.
 
 ### Colour Scheme:
 
@@ -52,9 +52,9 @@ With the site being designed around nature, I decided early on that I wanted the
 
 <img src="assets/readme-images/color-grid.png">
 
-I used http://colormind.io/ to design my colour scheme. I decided to the use green (#4c645c) on the header and footer to keep it consistant with white (#ffffff) to contrast against this. I used the slightly off white (#f3eada) to add a contrasting background and give the impression on depth while the sites information is on the white (#ffffff) background. I used the yellow (#ecba0e) colour on the header to contrast againt the green (#4c645c) header to make the support us button stand out to users. 
+I used http://colormind.io/ to design my colour scheme. I decided to use green (#4c645c) on the header and footer to keep it consistent with white (#ffffff) to contrast against this. I used the slightly off-white (#f3eada) to add a contrasting background and give the impression of depth while the site's information is on the white (#ffffff) background. I used the yellow (#ecba0e) colour on the header to contrast against the green (#4c645c) header to make the support us button stand out to users. 
 
-My goal was to make the site as accessible to all, I used https://contrast-grid.eightshapes.com/ to check that my colours contrasted against each other.
+My goal was to make the site accessible to all, I used https://contrast-grid.eightshapes.com/ to check that my colours contrasted against each other.
 
 <img src="assets/readme-images/colour-contrast-grid.png">
 
@@ -88,7 +88,7 @@ I wanted to ensure that my site could be accessed by multiple device types and s
 
 I have used a hero image only on the home page to welcome visitors, I have done this to add to the user experience and overall visual appeal. As the hero image is the first thing visitors will see when landing on my site it needed to be relevant while also grabbing their attention immediately, encouraging them to explore further. 
 
-I also used hero text to spark curiosity with users to want to dive deeper into the website. I used contrasting colours with a RGBA background to add transparency so it didn't take complete focus from the hero image itself.
+I also used hero text to spark curiosity with users to want to dive deeper into the website. I used contrasting colours with an RGBA background to add transparency so it didn't take complete focus from the hero image itself.
 
 <img src="assets/readme-images/hero-image-screenshot.png">
 
@@ -103,19 +103,19 @@ The next section is a quote, I have used this to space the page out so the user 
 
 <img src="assets/readme-images/quote-screenshot.png">
 
-The next section is some aditional links, the reason I have added these is because the user is now at as stage of wanting the find out more information, and insead of scrolling to the top I have directed them after they already now know a little information about the woods from the content above.
+The next section is a quote, I have used this to space the page out so the user isn't overwhelmed with information. 
 
 <img src= "assets/readme-images/additional-links-screenshot.png">
 
-The last section of the home page before the footer is the 'How to find us' section this include an interactive google maps, Address, and basic directions from main roads and public transport. I originally planed for this to have its own page but decided that it would be best situated on the home page.
+The last section of the home page before the footer is the 'How to find us' section this includes an interactive google maps, Address, and basic directions from main roads and public transport. I originally planned for this to have its own page but decided that it would be best situated on the home page.
 
 <img src="assets/readme-images/find-us-screenshot.png">
 
 ### Wildlife Page
 
-The wildlife page is has been designed for visitors who are intrested on what they may find whilst visiting the woods. It include a opening paragraph and a sentence on keeping respectful to the wildlife, I originally planned for the sentence to be place at the bottom of the page after visitors had read all the content. However, I decided that I wanted to this to be above so it cannot be missed as this is one of my aims for the site.
+The wildlife page has been designed for visitors who are interested in what they may find whilst visiting the woods. It includes a opening paragraph and a sentence on keeping respectful to the wildlife, I originally planned for the sentence to be placed at the bottom of the page after visitors had read all the content. However, I decided that I wanted this to be above so it cannot be missed as this is one of my aims for the site.
 
-The page has been designed with a flexbox grid with images placed in the small columns and the text in the large columns, using this design made it very easy to add media queries in to scale the content for smaller screens. Screens that are 750px wide or less the content will be aligned to the middle with the pictures located above the text.
+The page has been designed with a flexbox grid with images placed in the small columns and the text in the large columns, using this design made it very easy to add media queries to scale the content for smaller screens. Screens that are 750px wide or less the content will be aligned to the middle with the pictures located above the text.
 
 <img src="assets/readme-images/wildlife-page-screenshot.png">
 
@@ -123,7 +123,7 @@ The page has been designed with a flexbox grid with images placed in the small c
 
 ### Sports and Recreation Page
 
-The Sports & Recreation page has been designed for visitors who may be intrested in different activites around the woods, it opens with a opening paragraph which is a basic summary of some of the activties. The second part of the page was designed with a flexbox grid which goes into more detail about each of the activities on offer. This page scales very simmilarly to the wildlife page with screens 630px or smaller.
+The Sports & Recreation page has been designed for visitors who may be interested in different activities around the woods, it opens with an opening paragraph which is a basic summary of some of the activities. The second part of the page was designed with a flexbox grid which goes into more detail about each of the activities on offer. This page scales very similarly to the wildlife page with screens 630px or smaller.
 
 <img src="assets/readme-images/sports-page-screenshot.png">
 
@@ -131,13 +131,13 @@ The Sports & Recreation page has been designed for visitors who may be intrested
 
 ### Support us! Page
 
-The support us page informs visitors in way they could support us, it also include a form in which users will leave their first and last name along with an email, where we can get in touch personally with them in way they can support the woods at this time.
+The support us page informs visitors in a way they could support us, it also includes a form in which users will leave their first and last name along with an email, where we can get in touch personally. I currently have used the code institute landing page to show that it works. However, shortly, I hope to add some back-end structure to the site so this works correctly.
 
 <img src="assets/readme-images/support-us-screenshot.png">
 
 ### Footer
 
-The footer which is found at the bottom of each page, is used to host our social media links to Facebook, Twitter, Youtube and Instagram. It also hold an education declaration.
+The footer which is found at the bottom of each page, is used to host our social media links to Facebook, Twitter, Youtube and Instagram. It also holds an education declaration.
 
 <img src="assets/readme-images/footer-screenshot.png">
 
@@ -145,9 +145,9 @@ The footer which is found at the bottom of each page, is used to host our social
 
 * Interactive Gallery / Photography Page - Allow users to upload images creating a sense of ownership and pride among the community.
 
-* Clubs Page - Allow Clubs to promote themsleves to futher engage the community and encourage participation
+* Clubs Page - Allow Clubs to promote themselves to further engage the community and encourage participation
 
-* Condence the header into a drop down menu when in mobile view
+* Condence the header into a drop-down menu when in mobile view
 
 * History Page - Showcase the historical importance of Hockley Woods.
 
@@ -155,11 +155,11 @@ The footer which is found at the bottom of each page, is used to host our social
 
 ## Testing
 
-Throughout Development I have tested the site rigorously by using the following devices and aplications:
+Throughout Development I have tested the site rigorously by using the following devices and applications:
 
 * Macbook Pro 13" Safari, - Chrome and Firefox
 
-* Windows PC (Windows 11) on a 1440p 27" monitor - Chrome, Firefox and edge
+* Windows PC (Windows 11) on a 1440p 27" monitor - Chrome, Firefox and Edge
 
 * iPad Air (5th Gen) - Safari and Chrome
 
@@ -170,19 +170,19 @@ Throughout Development I have tested the site rigorously by using the following 
 * iPhone 11 - Safari and Chrome
 
 
-I made use of Google chromes dev tools to allow to me emulate other devices not a my disposal, I also was able to test it in the responsive dimesion in real-time.
+I made use of Google Chrome dev tools to allow to me emulate other devices not a my disposal, I also was able to test it in the responsive dimension in real-time.
 
 <img src="assets/readme-images/google-dev-tools-screenshot.png">
 
 ### Lighthouse
 
-When pushing the website through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accesibility.
+When pushing the website through the lighthouse extension I was getting an error with my Map as it was missing a title giving me a score of 97 on my accessibility.
 
 <img src="assets/readme-images/lighthouse-before-fix.png">
 
 <img src="assets/readme-images/lighthouse-map-error.png">
 
-However after adding a title attribute to the map this error was cleared.
+However, after adding a title attribute to the map this error was cleared.
 
 <img src="assets/readme-images/lighthouse-after-fix.png">
 
@@ -194,7 +194,7 @@ I deployed the site on GitHub Pages using the following method:
 
 1. From my project [repository](https://github.com/RadleighSmith/hockley-woods), navigate to the settings tab.
 
-2. From the left hand menu, select the pages option.
+2. From the left-hand menu, select the pages option.
 
 3. From the source section drop-down menu, select the Main Branch.
 
@@ -237,15 +237,15 @@ I also used [Simple Image Resizer](https://www.simpleimageresizer.com/) to resiz
 
 ###  Content
 
-* The hover and active CSS classes are inspired from Code Institue's Love Running Project.
+* The hover and active CSS classes are inspired by Code Institue's Love Running Project.
 
 * Some information on the home page was taken from the [Rochford Council Website](https://www.rochford.gov.uk/hockley-woods)
 
-* The form on the site is inspired by the Code Institute's Coders Coffeehouse code along project.
+* The form on the site is inspired by the Code Institute's Coders Coffeehouse code-along project.
 
-* I learnt the basics of flexbox by using the "flex-test" provided to me by my Code Institute mentor Richard Wells.
+* I learnt the basics of Flexbox by using the "flex-test" provided to me by my Code Institute mentor Richard Wells.
 
-* All social media icons used on the site were sourced from: [Font Awesome](https://fontawesome.com)
+* All social media icons used on the site were sourced from [Font Awesome](https://fontawesome.com)
 
 * I used [ChatGBT](https://chat.openai.com/) to help populate some of the information across the site.
 
@@ -256,16 +256,12 @@ I also used [Simple Image Resizer](https://www.simpleimageresizer.com/) to resiz
 
 * Code Institute
 
-    I must say a thank you to the entire Code Institue team for inspiring me to persue my dreams of becoming a full stack software developer. Through the well presented lession or their continued support on slack, I truly appriciate everything they do.
+    I must say a thank you to the entire Code Institute team for inspiring me to pursue my dreams of becoming a full-stack software developer. Through the well presented lessions and their continued support, I truly appriciate everything they do.
 
 * Richard Wells - Code Institute Mentor.
 
-    I feel extremily fortunate to have Richard mentoring me through this, it has been quite overwhelming at times but his continued support has kept me on track and focused in the areas that need it most. I am truly greatful for his help.
-
-* My Friends and Family
-
-    Throughout this project I have been so greatful to my friends and family, Unfortunatly they arent developers but they have helped me massivly by proof reading my work for spelling mistakes as I suffer with Dylexia. I have come alongway but cannot thank them enough.
+    I feel extremely fortunate to have Richard mentoring me through the course, it has been quite overwhelming at times but his continued support has kept me on track and focused in the areas that need it most. I am truly grateful for his help.
 
 * My Girlfriend Ciara
 
-    Without her support from the very start telling me to persue my dream I dont think I would be in the position I am now. Your support has been unbelivable and I thank you from the bottom of my heart.
+    Without her support from the very start giving me as much time as I need. Your support has been unbelievable and I thank you from the bottom of my heart.
