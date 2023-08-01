@@ -60,6 +60,16 @@ My goal was to make the site accessible to all, I used https://contrast-grid.eig
 
 <img src="docs/readme-images/colour-contrast-grid.png">
 
+### Typography
+
+Throughout the site I used two different fonts.
+
+* Barlow Semi Condensed: Barlow is a slightly rounded, low-contrast, grotesk type family. I used this for section headings.
+
+* Nunito: Nunito is a well balanced, highly-readable sans-serif typeface. I used this for the main body of text.
+
+These fonts were improted to the stylesheet via Google Fonts
+
 ## Features
 
 ### The Header
@@ -193,6 +203,10 @@ However, after adding a title attribute to the map this error was cleared.
 ### Bugs
 
 * Fixed an issue where all the media queries stoped working due to a typo on the 750px query where the max-width measurement was spelt rpx instead of px.
+
+### Unfixed Bugs
+
+There are no current known bugs present within the site, However, I have left this section for cataloguing and for fixing future bugs.
 
 
 ## Languages
