@@ -209,7 +209,71 @@ However, after adding a title attribute to the map this error was cleared.
 
 <img src="docs/readme-images/lighthouse-after-fix.png">
 
-#### 
+##### Mobile 
+
+### Functional testing
+
+#### Home page
+
+* I tested each individual link on the nav bar from the home page and each one brought me to the correct destination.
+
+* I tested the aditional links section to the wildlife and sport and recreation pages and the links brought me to correct destination.
+
+* I tested the map under the how to find us section and all worked as intended.
+
+* I tested the screen under different sizes and orientations on different devices and all work as intended.
+
+* All of the images loaded correctly and have the correct alt labels if they dont.
+
+* All the social media links on the footer were tested from the home page and functioned correctly, opening in a new tab.
+
+#### Wildlife page
+
+* I tested each individual link on the nav bar from the wildlife page and each one brought me to the correct destination.
+
+* I tested the screen under different sizes and orientations on different devices and all work as intended including the flexbox order change.
+
+* All of the images loaded correctly and have the correct alt labels if they dont.
+
+* All the social media links on the footer were tested from the wildlife page and functioned correctly, opening in a new tab.
+
+#### Sports and Recreation Page
+
+* I tested each individual link on the nav bar from the sports and recreation page and each one brought me to the correct destination.
+
+* I tested the screen under different sizes and orientations on different devices and all work as intended including the flexbox order change.
+
+* All of the images loaded correctly and have the correct alt labels if they dont.
+
+* All the social media links on the footer were tested from the sports and recreation page and functioned correctly, opening in a new tab.
+
+#### Support us page
+
+* I tested each individual link on the nav bar from the wildlife page and each one brought me to the correct destination.
+
+* I tested the screen under different sizes and orientations on different devices and all work as intended.
+
+* The form when completed takes you to the thank-you.html page as instended.
+
+* I tested the form making sure the required sections work as intended.
+
+* All the social media links on the footer were tested from the wildlife and functioned correctly, opening in a new tab.
+
+
+#### Thank you page
+
+* I tested each individual link on the nav bar from the wildlife page and each one brought me to the correct destination.
+
+* I tested the screen under different sizes and orientations on different devices and all work as intended.
+
+* I tested the return home button and it returns the user back to the home page as intended. 
+
+* All the social media links on the footer were tested from the wildlife and functioned correctly, opening in a new tab.
+
+
+### Validator Testing
+
+
 
 ### Bugs
 
