@@ -386,6 +386,7 @@ form input[type=submit] {
     display: block;
     margin: 0 auto;
     background-color: #ECBA0E;
+    margin-top: 1em;
 }
 
 
