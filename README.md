@@ -159,9 +159,11 @@ The footer which is found at the bottom of each page, is used to host our social
 
 * Clubs Page - Allow Clubs to promote themselves to further engage the community and encourage participation
 
-* Condence the header into a drop-down menu when in mobile view
+* Condence the header into a drop-down menu when in mobile view using javascript.
 
 * History Page - Showcase the historical importance of Hockley Woods.
+
+* Add back-end structure to the form so data can be managed and sorted.
 
 
 
