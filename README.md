@@ -399,7 +399,7 @@ After adding the correct mesurement unit the style sheet passed with no issues.
 
 ### Bugs
 
-* Fixed an issue where all the media queries stoped working due to a typo on the 750px query where the max-width measurement was spelt rpx instead of px.
+* I came across an issue where my media queries stopped working across the site, this was due to a typo in the 750px media query where its measurment was spelt 'rpx'. After finding this a quick fix of correcting the typo from 'rpx' to 'px' fixed the problem across the site.
 
 ### Unfixed Bugs
 
