@@ -65,11 +65,8 @@ a {
     align-self: baseline;
 }
 
+.active,
 .nav-bar a:hover {
-    text-decoration: underline;
-}
-
-.active {
     text-decoration: underline;
 }
 
