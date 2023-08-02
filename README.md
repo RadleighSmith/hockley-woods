@@ -12,9 +12,9 @@ Hockley Woods is a picturesque woodland located in Essex, England. As one of the
 
 [Testing](https://github.com/RadleighSmith/hockley-woods#testing)
 
-[Deployment](https://github.com/RadleighSmith/hockley-woods#deployment)
-
 [Languages](https://github.com/RadleighSmith/hockley-woods#languages)
+
+[Deployment](https://github.com/RadleighSmith/hockley-woods#deployment)
 
 [Media](https://github.com/RadleighSmith/hockley-woods#media)
 
